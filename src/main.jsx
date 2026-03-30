@@ -102,7 +102,7 @@ export default function PresentationTimer() {
 
   // ─── Render ───────────────────────────────────────────────────────────────
   return (
-    <div className="app-root">
+    <div className="root">
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@300;500;700&display=swap');
 
